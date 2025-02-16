@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bulkymvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ce42a5fcf44ad823146766e762eaceeb5046245")]
 [assembly: System.Reflection.AssemblyProductAttribute("bulkymvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bulkymvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
